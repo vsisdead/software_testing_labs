@@ -1,0 +1,11 @@
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\bin\Debug\nunit.framework.pdb
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojAssemblyReference.cache
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.CopyComplete
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Users\Vadim Samtsov\Desktop\Lab4 UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
